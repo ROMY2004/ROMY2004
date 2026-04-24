@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💡 Experienced in **Cisco-based infrastructures, Windows Server, and Virtualization (VMware, Hyper-V)**  
 - 🛠 Skilled in **Active Directory, Routing Protocols (OSPF, EIGRP, BGP), and Security Hardening**  
 - 🤝 Open to collaborating on **networking, system administration, and IT security projects**  
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/ebrahim-ahmedd) | [GitHub](https://github.com/ROMY2004)  
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/ebrahim-ahmedd)
 
 ---
 
