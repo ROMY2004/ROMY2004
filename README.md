@@ -1,68 +1,87 @@
-## Hi there 👋
-
-<!--
-**ROMY2004/ROMY2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Hello, I'm Ebrahim Ahmed  
 
-## 🚀 About Me  
-- 🌱 Currently learning **Advanced Networking, Linux Administration, and Cloud Technologies**  
-- 💡 Experienced in **Cisco-based infrastructures, Windows Server, and Virtualization (VMware, Hyper-V)**  
-- 🛠 Skilled in **Active Directory, Routing Protocols (OSPF, EIGRP, BGP), and Security Hardening**  
-- 🤝 Open to collaborating on **networking, system administration, and IT security projects**  
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/ebrahim-ahmedd)
+🎯 **Network Security Engineer | CCNA Certified | IT Infrastructure Specialist**  
+
+📍 Cairo, Egypt  
+📧 ebrahemromy@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/ebrahim-ahmedd) | 💻 [GitHub](https://github.com/ROMY2004)
 
 ---
 
-## 🧑‍💻 Skills & Tools  
-<p align="left">
-  <!-- Networking -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Cisco" width="60" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/windows-10.png" alt="Windows Server" width="40" height="40"/>
+## 🚀 About Me  
+- 🔐 Network Security Enthusiast with **1+ year of hands-on experience**  
+- 🌐 Skilled in **Cisco networks, firewall administration, and VPN technologies**  
+- ⚙️ Experienced with **SSL VPN, IPsec, and SD-WAN**  
+- 🧠 Passionate about **cybersecurity, system performance, and network optimization**  
+- 🛠 Always learning through **labs, real environments, and hands-on projects**  
 
-  <!-- Virtualization -->
-  <img src="https://img.icons8.com/color/48/vmware.png" alt="VMware" width="40" height="40"/>
+---
 
-  <!-- Programming -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+## 💼 Experience  
 
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
+### 🏢 Network & System Administrator – Nilco Int.  
+📅 Mar 2026 – Present  
+- 🔹 Managed networks using **Sophos Firewall**  
+- 🔹 Implemented **SSL VPN, IPsec, and SD-WAN**  
+- 🔹 Enforced security policies and reduced vulnerabilities  
+- 🔹 Provided technical support for employees  
 
-  
+---
 
+### 🏢 IT Analyst – Cleopatra Travel  
+📅 Jan 2026 – Present  
+- 🔹 Managed **Active Directory (Users, Groups, Policies)**  
+- 🔹 Provided **Outlook & remote support**  
+- 🔹 Monitored systems and resolved IT issues  
+- 🔹 Configured printers and handled daily incidents  
 
-</p>
+---
+
+### 🏢 Network Administrator – Smart Info Plus  
+📅 Aug 2025 – Mar 2026  
+- 🔹 Configured routers & switches  
+- 🔹 Implemented **VPN solutions (RustDesk, Radman VPN)**  
+- 🔹 Applied system updates and backups  
+- 🔹 Improved network performance  
+
+---
+
+## 🧑‍💻 Skills  
+
+### 🌐 Networking  
+`OSPF` `EIGRP` `BGP` `STP` `VLANs` `IPv4/IPv6`  
+
+### 🔐 Security  
+`VPN (IPsec, SSL)` `Firewall (Sophos, FortiGate Basics)` `Syslog` `SNMP`  
+
+### 🖥 Systems & Tools  
+`Windows Server` `Linux` `VMware` `PRTG` `Wireshark` `Nmap`  
+`PuTTY` `SecureCRT`  
+
 ---
 
 ## 📚 Certifications  
-- 🎓 **Cisco Certified Network Associate (CCNA)** – WE Telecom Egypt (Jul 2025)  
-- 🖥 **Windows Server 2019 – MCSA** – Udemy (Jul 2025)  
-- 🐧 **RHCSA – Red Hat Certified System Administrator** (Sep 2023, Studied)  
-- 🌐 **CompTIA Network+** (Sep 2023, Studied)  
+- 🎓 **CCNA – Cisco Certified Network Associate**  
+- 🖥 **MCSA – Windows Server 2019**  
+- 🛡 **Cisco Network Defense**  
+- 🔥 **FortiGate Firewall Training (NTI)**  
+- 🌐 **CompTIA Network+ (Studied)**  
 
 ---
 
 ## 🛠 Projects  
-🔹 **Packet Sniffer (Python)**  
-- Captured and analyzed real-time network traffic using `socket` and `scapy`.  
-- Displayed IP, ports, and protocols for monitoring and debugging.  
-- [🔗 GitHub Repository](https://github.com/ROMY2004/codealpha_tasks)  
+
+### 🔹 Packet Sniffer (Python)  
+- Captured real-time traffic using **Scapy & Socket**  
+- Analyzed IPs, ports, and protocols  
+- 🔗 https://github.com/ROMY2004/codealpha_tasks  
+
+---
+
+### 🔹 Enterprise Wireless Lab  
+- Configured **Cisco WLC + Access Points**  
+- Implemented **WPA2-Enterprise with RADIUS**  
+- Built multi-SSID environments (Staff / Guest)  
 
 ---
 
@@ -70,8 +89,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ROMY2004&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROMY2004&layout=compact&theme=tokyonight" height="180"/>
-</p>  
+</p>
 
 ---
 
-⭐ From [Ebrahim Ahmed](https://github.com/ROMY2004)  
+⭐ From [Ebrahim Ahmed](https://github.com/ROMY2004)
