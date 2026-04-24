@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ebrahim Ahmed  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Network+Security+Engineer;SOC+Analyst+in+Progress;CCNA+Certified;Cybersecurity+Enthusiast&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Network+Security+Engineer;CCNA+Certified;Cybersecurity+Enthusiast&center=true&width=500&height=45">
 </p>
 
 ---
@@ -65,19 +65,6 @@
 ### 🔹 🔥 (Coming Soon) Threat Detection System
 - AI-based suspicious activity detection using CCTV  
 - Deep Learning + Security Monitoring  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROMY2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROMY2004&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ROMY2004&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ---
 
